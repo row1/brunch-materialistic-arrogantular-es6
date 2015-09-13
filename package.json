@@ -1,0 +1,26 @@
+{
+  "name": "brunch-materialistic-arrogantular-es6",
+  "version": "0.0.0",
+  "description": "Opinionated AngularJS using Brunch and ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/row1/brunch-materialistic-arrogantular-es6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/row1/brunch-materialistic-arrogantular-es6/issues"
+  },
+  "homepage": "https://github.com/row1/brunch-materialistic-arrogantular-es6",
+  "devDependencies": {
+    "babel-brunch": "^5.1.2",
+    "brunch": "^1.8.5",
+    "css-brunch": "^1.7.0",
+    "javascript-brunch": "^1.7.1",
+    "sass-brunch": "^1.8.11"
+  }
+}

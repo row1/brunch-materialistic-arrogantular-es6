@@ -1,0 +1,21 @@
+{
+  "name": "brunch-materialistic-arrogantular-es6",
+  "version": "0.0.0",
+  "homepage": "https://github.com/row1/brunch-materialistic-arrogantular-es6",
+  "authors": [
+    "row1 <mcphd101@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-material": "~0.11.0",
+    "angular-ui-router": "ui-router#~0.2.15"
+  }
+}
